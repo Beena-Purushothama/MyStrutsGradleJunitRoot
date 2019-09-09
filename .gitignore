@@ -1,0 +1,7 @@
+# ignore a file type
+*.DS_Store
+.classpath
+.project
+# ignore an entire directory
+/MyStrutsGradleJunitEAR/.settings
+/MyStrutsGradleJunitTest/.settings
