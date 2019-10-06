@@ -10,7 +10,7 @@
 	<html:form action="/login" focus="userName">
 	Username : <html:text property="userName" />
 		<br>
-	Password : <html:password property="password" />
+	Password : <html:password property="passWord" />
 		<br>
 		<html:submit value="login" />
 	</html:form>
